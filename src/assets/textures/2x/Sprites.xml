@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:89b357f85b1d80646c4551190dbc6310:afcf424dd3ed1b8feb03eff277393cbb:8c12a24ca534350eb7d479cda99d4b94$ -->
+<TextureAtlas imagePath="Sprites.png">
+    <SubTexture name="bird_1" x="692" y="1375" width="232" height="124" frameX="-22" frameY="0" frameWidth="254" frameHeight="124"/>
+    <SubTexture name="bird_2" x="2" y="1926" width="254" height="100" frameX="0" frameY="-11" frameWidth="254" frameHeight="124"/>
+    <SubTexture name="bird_green" x="813" y="1294" width="142" height="76"/>
+    <SubTexture name="bird_green_flying_1" x="662" y="1294" width="149" height="79"/>
+    <SubTexture name="bird_green_flying_2" x="349" y="1926" width="149" height="79"/>
+    <SubTexture name="bird_green_flying_3" x="662" y="1294" width="149" height="79"/>
+    <SubTexture name="bird_green_flying_4" x="349" y="1926" width="149" height="79"/>
+    <SubTexture name="bird_green_flying_5" x="662" y="1294" width="149" height="79"/>
+    <SubTexture name="bird_green_flying_6" x="572" y="1812" width="149" height="63" frameX="0" frameY="-8" frameWidth="149" frameHeight="79"/>
+    <SubTexture name="button_about-over" x="824" y="1966" width="196" height="52"/>
+    <SubTexture name="button_about" x="1820" y="1019" width="200" height="57"/>
+    <SubTexture name="button_back-over" x="824" y="1912" width="196" height="52"/>
+    <SubTexture name="button_back" x="1820" y="960" width="200" height="57"/>
+    <SubTexture name="button_restart" x="1820" y="901" width="200" height="57"/>
+    <SubTexture name="button_restart_over" x="723" y="1858" width="196" height="52"/>
+    <SubTexture name="button_start-over" x="723" y="1804" width="196" height="52"/>
+    <SubTexture name="button_start" x="1820" y="842" width="200" height="57"/>
+    <SubTexture name="cloud_large" x="500" y="1912" width="322" height="132"/>
+    <SubTexture name="cloud_small" x="512" y="1405" width="178" height="132"/>
+    <SubTexture name="coin" x="526" y="1746" width="46" height="64"/>
+    <SubTexture name="coin32" x="2004" y="226" width="23" height="32"/>
+    <SubTexture name="coin_brown" x="526" y="1812" width="44" height="64"/>
+    <SubTexture name="derpy_bird_logo" x="662" y="1078" width="435" height="214"/>
+    <SubTexture name="dynimike_games" x="1820" y="727" width="202" height="54"/>
+    <SubTexture name="facebook_share_button" x="574" y="1746" width="374" height="56"/>
+    <SubTexture name="game_over_slide" x="2" y="1078" width="508" height="505"/>
+    <SubTexture name="game_over_title" x="526" y="1669" width="449" height="75"/>
+    <SubTexture name="ground" x="2" y="579" width="2000" height="146"/>
+    <SubTexture name="heart_empty" x="2004" y="43" width="37" height="39"/>
+    <SubTexture name="heart_full" x="2004" y="2" width="37" height="39"/>
+    <SubTexture name="instructions" x="2" y="1585" width="374" height="339"/>
+    <SubTexture name="medal_placeholder" x="258" y="1926" width="89" height="89"/>
+    <SubTexture name="mountains" x="2" y="2" width="2000" height="575"/>
+    <SubTexture name="restart_button" x="1820" y="901" width="200" height="57"/>
+    <SubTexture name="ring" x="378" y="1585" width="146" height="325"/>
+    <SubTexture name="ring_back" x="593" y="1078" width="67" height="325"/>
+    <SubTexture name="ring_brown" x="2004" y="155" width="33" height="69"/>
+    <SubTexture name="ring_front" x="512" y="1078" width="79" height="325"/>
+    <SubTexture name="ring_small" x="2004" y="84" width="33" height="69"/>
+    <SubTexture name="share_button" x="1820" y="783" width="200" height="57"/>
+    <SubTexture name="start_bird" x="526" y="1539" width="239" height="128"/>
+    <SubTexture name="trees" x="2" y="727" width="1816" height="343"/>
+</TextureAtlas>
